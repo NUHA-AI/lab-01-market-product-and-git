@@ -1,13 +1,5 @@
 # Personal Reflection
 
-**Which role did you choose and why?**
-I chose the **Backend Engineer** role because I already have experience with **FastAPI** and **PostgreSQL**. I enjoy working with data logic and server-side architecture more than visual interfaces.
+I chose the Backend Engineer role because I enjoy the logic and data handling side of applications more than the visual interface. In this lab, the concept of "Diagrams as Code" using Mermaid was new to me; it is much cleaner to keep diagrams versioned in Git than saving images. 
 
-**What is one thing about the product’s architecture that was new to you?**
-The concept of "Diagrams as Code" (using Mermaid) was new to me. I realized how useful it is to keep diagrams versioned together with the code instead of using static images.
-
-**Which course topics seem most relevant to your chosen role?**
-**Docker** and **CI/CD** seem the most relevant. I know how to write code, but deploying it automatically and consistently is a skill I am missing.
-
-**What is one concrete skill you would like to improve this semester?**
-I want to master **Automated Testing (Pytest)**. I want to be able to write tests that ensure my API works correctly before I even push the code.
+Looking at the course topics, **Docker** and **CI/CD** seem the most relevant to my goal, as automating deployment is a huge part of modern backend work. One concrete skill I want to improve this semester is my ability to design a scalable database schemas, as this is the foundation of any good product.
