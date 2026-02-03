@@ -135,9 +135,10 @@ C4Deployment
 
 **External Systems:**
 - **Student & Teacher Devices:** Web browsers (Chrome, Firefox, Safari)
-- **Email Service:** For notifications and password resets
-- **Cloud Storage (S3):** For scalable document storage
-- **Analytics Service:** For tracking platform usage and performance
+- **Email Service:** For notifications and password resets (SMTP)
+- **Cloud Storage (S3):** For scalable document storage (AWS S3 or MinIO)
+- **Analytics Service:** For tracking platform usage and performance (Google Analytics or custom)
+- **Authentication Provider:** Optional OAuth2/OIDC for SSO integration
 
 **Boundaries:**
 - System boundary: Everything within the VPS container
